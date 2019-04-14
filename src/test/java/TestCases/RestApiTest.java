@@ -11,4 +11,8 @@ public class RestApiTest {
 	public void iosApp() {
 		System.out.println("iosApp");
 	}
+	@Test
+	public void iosApp23() {
+		System.out.println("iosApp23");
+	}
 }
